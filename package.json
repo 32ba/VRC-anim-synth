@@ -1,0 +1,13 @@
+{
+  "name": "net.32ba.anim-synth",
+  "displayName": "Anim Synth",
+  "version": "0.0.1",
+  "unity": "2022.3",
+  "description": "A tool to synthesize .anim files for Unity.",
+  "vrchatVersion": "2022.1.1",
+  "author": {
+    "name": "32ba",
+    "url": "https://github.com/32ba"
+  },
+  "license": "MIT"
+}
